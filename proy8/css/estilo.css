@@ -1,0 +1,156 @@
+#principal
+{
+    width: 600px;
+    height: 800px;
+    background-color: aqua;
+    position: absolute;
+    left: 400px;
+}
+
+#cara
+{
+    width: 400px;
+    height: 400px;
+    background-color:palegoldenrod;
+    position: fixed;
+    top: 200px;
+    left: 500px;
+    border-radius: 100%;
+}
+#gorro
+{
+    width: 200px;
+    height: 150px;
+    background-color: brown;
+    position: fixed;
+    top: 100px;
+    left: 600px;
+    border-radius: 20px;
+}
+#gorro1
+{
+    width: 400px;
+    height: 50px;
+    background-color: brown
+    ;
+    position: fixed;
+    top: 200px;
+    left: 500px;
+    border-radius: 20px;
+}
+#ojos
+{
+    width: 80px;
+    height: 130px;
+    background-color: white;
+    display: inline-block;
+    position:relative;
+    border-radius: 80%;
+    left: 90px;
+    top: 80px;
+
+}
+#parpados
+{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    
+    position: relative;
+    border-radius: 60%;
+    left: 15px;
+    top: 80px;
+}
+
+
+
+#ojos1
+{
+    width: 80px;
+    height: 130px;
+    background-color: white;
+    display: inline-block;
+    position:relative;
+    border-radius: 80%;
+    left: 140px;
+    top: 80px;
+
+}
+#parpados1
+{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    
+    position: relative;
+    border-radius: 60%;
+    left: 18px;
+    top: 80px;
+}
+#boca
+{
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    border-radius: 50%;
+    left: 80px;
+    top: 85px;
+}
+#labios
+{
+    width: 180px;
+    height: 100px;
+    background-color:red;
+    position: relative;
+    border-radius: 50%;
+    left: 38px;
+    top: 30px;
+
+}
+#naris
+{
+    width: 100px;
+    height: 100px;
+    background-color:greenyellow;
+    position: fixed;
+    border-radius: 100%;
+    left: 648px;
+    top: 360px;
+
+}
+#linea
+{
+    width: 100px;
+    height: 10px;
+    background-color:black;
+    position: fixed;
+    border-radius: 100%;
+    left: 658px;
+    top: 500px;
+
+}
+#cabello
+{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    position: sticky;
+    border-radius: 100%;
+    left: 158px;
+    top: 280px;
+
+}
+#cabellos
+{
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    position: fixed;
+    border-radius: 100%;
+    left: 798px;
+    top: 280px;
+
+}
+
+
